@@ -2,3 +2,4 @@
 ### Intellij IDEA ###
 .idea
 >>>>>>> fb-02
+*.iml
